@@ -1,0 +1,14 @@
+{
+    "TYDOM_MAC": "XXXXXXXXXXXX",
+    "TYDOM_IP": "192.168.XXX.XXX",
+    "TYDOM_PASSWORD":"XXXXXXXXXXX",
+    "TYDOM_ALARM_PIN": "XXXX",
+    "TYDOM_ALARM_HOME_ZONE": 1,
+    "TYDOM_ALARM_NIGHT_ZONE": 2,
+    "MQTT_HOST": "the_homeassistant_host",
+    "MQTT_USER": "the_user",
+    "MQTT_PASSWORD": "XXXXXXXXXXXXXXXXXXXXXX",
+    "MQTT_PORT": 1883,
+    "MQTT_SSL": false,
+    "log_level": "info"
+}
